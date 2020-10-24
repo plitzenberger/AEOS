@@ -1,4 +1,4 @@
-# ABOS - Autonomous Business Operating System
+# AEOS - Autonomous Business Operating System
 
 Starting and running a business is a complex operation. It requires the
 coorporation of many people within different disciplines. The success is mainly
@@ -9,7 +9,7 @@ participate in the right business to stay aligned with their values. Thereby the
 salary is not as important as for former generations. But in turn the feeling of
 exploitation rises.
 
-ABOS want to jump in and provide an Operating System to build businesses. It's
+AEOS want to jump in and provide an Operating System to build businesses. It's
 purpose is to simplify the administrative and creative tasks. It shall provide
 tools to find your strategy and create actionable roadmaps. It will also be
 build as an open platform allowing developers and business owner to build
@@ -21,6 +21,7 @@ enable Businesses to operate as sustainable organisms and turning their
 employees into shareholders.
 
 In classic organisations its often very hard to measure the value of
+contribution.
 
 ## Roles within AEOS Organizations & Project
 
