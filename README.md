@@ -26,11 +26,47 @@ contribution.
 ## Roles within AEOS Organizations & Project
 
 - Founder: initializes a business from idea to project to organization
-- Member
 - Follower:
   - receives notifications about announcements
 - Contributor:
+  - provides value by contributing his work
   - receives notifications about hic contributions
+  - can invest in form of value or money into ideas, projects or organizations.
+    The investment is tracked in form of tokens which are describing the shares.
+
+## Main Functional Areas
+
+### Performance Profile
+
+We can define a generic performance profile for humans. The day has 24h but
+nobody can bring peak performance for this time range. The performance profile
+is a statistical analysis of your personal timetrack. Additionaly we will
+develop tools to test and measure peak performance by utilizing randomized
+challanges.
+
+### Innovation Management
+
+### Project Management
+
+#### Collaboration
+
+### Customer Relation Management
+
+### Sales and Marketing
+
+### Finance and Accounting
+
+#### Timetracking for ledging of value stream
+
+#### Carbon Acccounting
+
+### People Management
+
+#### salary negotiation
+
+#### Feedback
+
+#### Learning and personal development
 
 ## Business states
 
@@ -49,9 +85,9 @@ contribution.
 - work privately and secure on my business idea
 - research and document my competitors
 - create a solid strategy by following tools like Business Model Canvas
-- find co founder and convince them
-- find investors to finance my work
-- follow methodologies like LEAN StartUp to execute towards a MVP
+- find co founder which share my purpose
+- find investors to finance the endeavour
+- follow methodologies like LEAN StartUp to execute towards the MVP
 
 ### As a contributer I want to
 
